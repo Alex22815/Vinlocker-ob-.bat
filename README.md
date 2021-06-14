@@ -1,2 +1,4 @@
-# Vinlocker-ob-.bat
-Mini vinlocker on .bat
+# Винлокер на .bat
+Мини Винлокер на .bat 
+
+
